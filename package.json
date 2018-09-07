@@ -1,6 +1,6 @@
 {
   "name": "base64url",
-  "version": "3.0.0",
+  "version": "3.0.0-2",
   "description": "For encoding to/from base64urls",
   "main": "index.js",
   "files": [
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianloveswords/base64url.git"
+    "url": "git://github.com/alexeichhorn/base64url.git"
   },
   "keywords": [
     "base64",
