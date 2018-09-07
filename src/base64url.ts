@@ -1,4 +1,5 @@
 import padString from "./pad-string";
+import { Buffer } from 'buffer';
 
 function encode(input: string | Buffer, encoding: string = "utf8"): string {
     if (Buffer.isBuffer(input)) {
